@@ -1,0 +1,90 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-turk-televizyon-kanali.188e2ef.png" group-title="Groups", TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-1-televizyon-kanali.4c9c3dd.png" group-title="Groups", TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/996px-Show_Turk_logo.svg.png" group-title="Groups", Show Türk
+https://canlitvulusal.xyz/live/showturk/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/03/Logo-ShowTV.svg/1200px-Logo-ShowTV.svg.png" group-title="Groups", Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png" group-title="Groups", Show Max
+https://canlitvulusal.xyz/live/showmax/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Groups", ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="hls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Atvavrupa.jpg" group-title="Groups", ATV AVRUPA
+http://185.234.111.229:8000/play/a018
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Atvavrupa.jpg" group-title="Groups", ATV AVRUPA
+http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4mv85yBivpU_0t651HFB0X0Ta9iBwpa2smtlbBkkIA&s" group-title="Groups", Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a4/Kanal_D_logo.png?20240410160225" group-title="Groups", Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/Eurod.jpg" group-title="Groups", Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYFjUc5Pjh3O7noaQ26fi4P6yeI6xRnkz8MJnRBo2GUxhMcf2QcTv8u8&s" group-title="Groups", A2
+https://c.fulltvizle.com/a2/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcixgSnFbyHWVMG9VakwpCPzVhE6z_e4Kcb77vdMZPPQ&s" group-title="Groups", EURO STAR Tv
+https://canlitvulusal.xyz/live/eurostar/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Star_TV_%282011-2017%29.svg/1024px-Logo_Star_TV_%282011-2017%29.svg.png" group-title="Groups", STAR TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JzWlDuxGF0t9PsqrX8aqzMt442NfBwjx9Q&s" group-title="Groups", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="http://193.70.86.92/chlogo/logo/tv/kk/kanal7_avrupa.png" group-title="Groups", KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="Groups", 360 Tv
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQynB6rT1YTMcSaT4hGR_OlMCHBi_NXhBiFBg&s" group-title="Groups", Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/400px-TV4sweden_logo.svg.png" group-title="Groups", Tv4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png?20170331221007" group-title="Groups", Tv 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="hls" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg?20160718134606" group-title="Groups", Tv 8 İnt
+http://185.234.111.229:8000/play/a01x
+#EXTM3U
+#EXTINF:-1 tvg-id="hls" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg?20160718134606" group-title="Groups", Tv 8 İnt
+http://185.234.111.229:8000/play/a01x
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/330px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Groups", NOW
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" group-title="Groups", Beyaz TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTM3U
+#EXTINF:-1 tvg-id="m3u8" tvg-logo="http://193.70.86.92/chlogo/logo/tv/cc/cinema_tv_th.png" group-title="Groups", Cinema1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="m3u8" tvg-logo="noimage.png" group-title="Groups", TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png" group-title="Groups", TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://www.kanal15.com.tr/wp-content/uploads/2021/04/Kanal-15-Logo-PNG-300x225-2.png" group-title="Groups", KANAL 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="Groups", Bein Sport
+https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Tuvturk_logo.svg/1200px-Tuvturk_logo.svg.png?20110831162502" group-title="Groups", TiviTürk
+https://stream.tiviturk.de/live/tiviturk.m3u8
